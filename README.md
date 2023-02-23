@@ -1,4 +1,4 @@
-# cof26425195e48493e4cd5b5d
+# My Social Media Counter
 
 Quick start:
 
